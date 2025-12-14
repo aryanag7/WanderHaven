@@ -40,28 +40,38 @@
 <details open>
   <summary><b>Homepage</b></summary>
   <p align="center">
-    
+    <img width="1154" height="810" alt="image" src="https://github.com/user-attachments/assets/1d6e3688-ad03-44f0-87ea-5bac1a28d87c" />
   </p>
 </details>
 
 <details>
   <summary><b>Listing Details</b></summary>
   <p align="center">
-    
+    <img width="1085" height="774" alt="image" src="https://github.com/user-attachments/assets/651fca52-9247-43a6-a003-1136e4979b8a" />
+    <br><br>
+    <img width="1079" height="832" alt="image" src="https://github.com/user-attachments/assets/61972abd-30e2-42f1-bc10-eee89a4044de" />
+    <br><br>
+    <img width="1103" height="831" alt="image" src="https://github.com/user-attachments/assets/9a0c5571-1622-41e2-9a4c-a47c988d6c52" />
   </p>
 </details>
 
 <details>
   <summary><b>User Authentication</b></summary>
   <p align="center">
-    
+    <img width="1097" height="540" alt="image" src="https://github.com/user-attachments/assets/25750ba7-4975-4122-8815-8b45e1f08591" />
+    <br><br>
+    <img width="1100" height="571" alt="image" src="https://github.com/user-attachments/assets/e95faf2f-5172-4714-baf0-d580b732a789" />
   </p>
 </details>
 
 <details>
   <summary><b>Filtering & Searching</b></summary>
   <p align="center">
-    
+    <img width="1144" height="819" alt="image" src="https://github.com/user-attachments/assets/8430e351-a596-4829-8898-ebc4c5c1eeb1" />
+    <br><br>
+    <img width="1150" height="730" alt="image" src="https://github.com/user-attachments/assets/057e74fb-2cd2-4520-b925-d94f89cc341d" />
+    <br><br>
+    <img width="1220" height="833" alt="image" src="https://github.com/user-attachments/assets/bf7711d7-cd4e-400f-958b-aa68b0e7e348" />
   </p>
 </details>
 
